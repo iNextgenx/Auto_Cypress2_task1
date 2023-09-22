@@ -1,0 +1,14 @@
+{
+  "name": "tsk1",
+  "version": "1.0.0",
+  "description": "Cypress2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Igor Smirnov",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.2.0"
+  }
+}

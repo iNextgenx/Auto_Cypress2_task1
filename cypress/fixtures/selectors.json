@@ -1,0 +1,11 @@
+{
+  "mainHeader": ".page-header__title",
+  "body": "body",
+  "mainSubtitle": ".page-header__subtitle",
+  "movieTitle": ".conf-step__movie-title",
+  "day": ".page-nav__day:nth-child(5)",
+  "movie": ".movie",
+  "hall": ".buying-scheme__wrapper",
+  "bookButton": "Забронировать",
+  "getQRbutton": ".acceptin-button"
+}
